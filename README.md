@@ -33,8 +33,8 @@ pip install -r requirements.txt
 The presentation layer is available in the `app` folder.<br/>
 There are currently two applications under development using jupyter notebooks:
 
-- [Recognition Training](app/recognition_training.ipynb)
-- [Recognition Inference](app/recognition_inference.ipynb)
+- [Recognition Training](apps/recognition_training.ipynb)
+- [Recognition Inference](apps/recognition_inference.ipynb)
 
 ### Run the Applications
 ```
