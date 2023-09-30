@@ -1,0 +1,6 @@
+.venv
+apps/.ipynb_checkpoints
+build/*.pth
+
+core/__pycache__
+__pycache__
